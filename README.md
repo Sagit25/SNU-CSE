@@ -1,2 +1,2 @@
 # SNU-CSE
-Seoul National University Computer Science and Engineering Labs and Projects
+Seoul National University Computer Science and Engineering Courses
