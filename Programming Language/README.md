@@ -34,10 +34,10 @@ meta programming, multi-staged programming
 overview, future issues
 
 ## Homeworks
-HW1| due 3/11 24:00| OCaml Progamming I
-HW2| due 3/25 24:00| OCaml Programming II
-HW3| due 4/4 24:00| Tiny imperative K-- interpreter
-HW4| due 4/18 24:00| K- interpreter, K- programming, Happy Shopping, Treasure Island
-HW5| due 4/29 24:00| Reading and essay
-HW6| due 5/13 24:00| Language translation, virtual machine, garbage collection, Lambda calculus
-HW7| due 5/27 24:00| CPS transformation, Exception as sugar, M interpreter, M simple-type system. Language M definition New
+| HW1 | due 3/11 24:00 | OCaml Progamming I |
+| HW2 | due 3/25 24:00 | OCaml Programming II |
+| HW3 | due 4/4 24:00 | Tiny imperative K-- interpreter |
+| HW4 | due 4/18 24:00 | K- interpreter, K- programming, Happy Shopping, Treasure Island |
+| HW5 | due 4/29 24:00 | Reading and essay |
+| HW6 | due 5/13 24:00 | Language translation, virtual machine, garbage collection, Lambda calculus |
+| HW7 | due 5/27 24:00 | CPS transformation, Exception as sugar, M interpreter, M simple-type system |
