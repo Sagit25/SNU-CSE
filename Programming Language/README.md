@@ -34,6 +34,8 @@ meta programming, multi-staged programming
 overview, future issues
 
 ## Homeworks
+| Homeworks | Due | About |
+| ------ | ---- | ----------- |
 | HW1 | due 3/11 24:00 | OCaml Progamming I |
 | HW2 | due 3/25 24:00 | OCaml Programming II |
 | HW3 | due 4/4 24:00 | Tiny imperative K-- interpreter |
