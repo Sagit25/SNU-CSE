@@ -1,0 +1,77 @@
+(* 2021-15738 Yang Sukhun *)
+(* HW4 Exercise3 Binary Tree *)
+
+let proc leaf(i) =
+    {lt := (), v := i, rt := ()}
+in
+
+let proc makeLtree(i, t) = 
+    {lt := t, v := i, rt := unit}
+in
+
+let proc makeRtree(i, t) = 
+    {lt := unit, v := i, rt := t}
+in
+
+let proc makeTree(i, t1, t2) = 
+    {lt := t1, v := i, rt := t2}
+in
+
+let proc isEmpty(t) = 
+    if t = unit then true else false 
+in
+
+let proc rTree(t) = t.rt in
+
+let proc lTree(t) = t.lt in
+
+let proc nodeVal(t) = t.v in
+
+let proc dft(t) = 
+    if t = false then unit
+    else (
+        write(t.v);
+        if isEmpty(t.lt) then (
+            unit;
+            if isEmpty(t.rt) then unit
+            else dft(t.rt)
+        )
+        else (
+            dft(t.lt);
+            if isEmpty(t.rt) then unit
+            else dft(t.rt)
+        )
+    )
+in
+
+let proc EnQ(q, i) = 
+    if q = unit then (
+        q := {v := i, next := unit};
+        q
+    )
+    else (
+        let x := q.next in
+        EnQ<x, i>;
+        q.next := x
+    )
+in
+
+let proc DeQ(q) = q := q.next in
+
+let proc bft(t) = 
+    let q := unit in
+    EnQ<q, t>; 
+    while not (q = unit) do (
+        let x := q.v in
+        DeQ<q>;
+        if x = unit then unit
+        else (
+            write(x.v);
+            let xlt := x.lt in
+            let xrt := x.rt in
+            EnQ<q, xlt>;
+            EnQ<q, xrt>
+        ) 
+    )
+in
+2022
