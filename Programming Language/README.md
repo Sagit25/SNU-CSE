@@ -4,7 +4,7 @@
 - Pf: Kwangkeun Yi
 - Course Hompage
   - http://ropas.snu.ac.kr/~kwang/4190.310/22/
-  - http://etl.snu.ac.kr/course/view.php?id=212612
+  - http://etl.snu.ac.kr/course/view.php?id=212886
 
 ## Syllabus
 - Part 0	
