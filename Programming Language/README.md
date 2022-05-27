@@ -1,4 +1,4 @@
-# Spring 2022, Programming Language (4190.310)
+# Programming Language (4190.310), Spring 2022
 
 ## Course Info
 - Instructor: Pf. Kwangkeun Yi
