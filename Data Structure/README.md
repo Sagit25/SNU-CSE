@@ -1,4 +1,4 @@
-# Programming Language (M1522.000900), Spring 2022
+# Data Structure (M1522.000900), Spring 2022
 
 ## Course Info
 - Instructor: Pf. Byungro Moon
