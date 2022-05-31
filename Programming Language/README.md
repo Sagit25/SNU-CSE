@@ -35,7 +35,7 @@
 
 ## Homeworks
 | Homeworks | Due | About |
-| ------ | ---- | ----------- |
+| :------: | ---- | ----------- |
 | HW1 | 3/11 24:00 | OCaml Progamming I |
 | HW2 | 3/25 24:00 | OCaml Programming II |
 | HW3 | 4/4 24:00 | Tiny imperative K-- interpreter |
@@ -43,5 +43,5 @@
 | HW5 | 4/29 24:00 | Reading and essay |
 | HW6 | 5/13 24:00 | Language translation, virtual machine, garbage collection, Lambda calculus |
 | HW7 | 5/27 24:00 | CPS transformation, Exception as sugar, M interpreter, M simple-type system |
-| HW8 | | |
+| HW8 | 6/10 24:00 | RosettaX, M let-polymorphic type system |
 | Challenge | 6/24 16:00 | |
