@@ -2,6 +2,7 @@
 
 ## Course Info
 - Instructor: Pf. Byungro Moon
+- Textbook : 쉽게 배우는 자료구조 with 자바-문병로-한빛아카데미-2022
 - Course Hompage
   - http://etl.snu.ac.kr/course/view.php?id=209929
 
