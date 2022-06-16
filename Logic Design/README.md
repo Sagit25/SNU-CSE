@@ -8,7 +8,7 @@
   - http://etl.snu.ac.kr/course/view.php?id=215987
 
 ## Syllabus
-| Week | Study |
+| Week | Contents |
 | :-------------: | :-----------------------------------------------------------------------------|
 | Week1 | - Introduction (Big Picture) <br> - Examples of logic dsign, basic elements, examples of combinational circuit and sequential circuits |
 | Week2 | - Boolean Algebra, Logic gates <br> - Practice with equipments, Soldering practice |
