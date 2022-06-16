@@ -2,6 +2,7 @@
 
 ## Course Info
 - Instructor: Pf. Kwangkeun Yi
+- Language: OCaml
 - Course Hompage
   - http://ropas.snu.ac.kr/~kwang/4190.310/22/
   - http://etl.snu.ac.kr/course/view.php?id=212886
