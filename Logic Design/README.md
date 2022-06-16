@@ -2,6 +2,7 @@
 
 ## Course Info
 - Instructor: Pf. Changgun Lee
+- Textbook: Contemporary Logic Design-Randy H. Katz and Gaetano Borriello-Pearson-2006
 - Language: Verilog
 - Course Hompage
   - http://etl.snu.ac.kr/course/view.php?id=215987
