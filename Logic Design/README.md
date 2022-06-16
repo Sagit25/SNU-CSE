@@ -2,6 +2,7 @@
 
 ## Course Info
 - Instructor: Pf. Changgun Lee
+- Language: Verilog
 - Course Hompage
   - http://etl.snu.ac.kr/course/view.php?id=215987
 
@@ -23,3 +24,16 @@
 | Week13 | - Target technologies for sequential circuits (CPLD, FPGA) <br> - Prctice on CPLD, FPGA (FSM implementation) |
 | Week14 | - Design of a simple microprocessor <br> - Practice on a simple microprocessor |
 | Week15 | - Term Project (Implementation and testing of a simple microprocessor using FPGA) |
+
+## Labs
+| Labs | Due | Description |
+| :------: | ---- | ------------------------- |
+| Lab 1 | 3/28 19:00 | Half-adder (sordering, wiring) |
+| Lab 2 | 4/4 19:00 | 2-bit Comparator (schematic, universal board) |
+| Lab 3 | 4/11 19:00 | 74x139, 3-to-8 Decoder, 4-to-1 MUX |
+| Lab 4 | 4/18 19:00 | BCD to 7-segment Decoder, Klingon number system Decoder |
+| Lab 5 | 5/2 19:00 | Ripple-Carry Adder, 1-bit ALU |
+| Lab 6 | 5/2 19:00 | R-S Flip-Flop |
+| Lab 7 | 5/9 19:00 | Two Digit Counter |
+| Lab 8 | 5/23 19:00 | Vending machine |
+| Final Project | 6/13 19:00 | Microprocessor |
