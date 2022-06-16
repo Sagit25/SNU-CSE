@@ -27,7 +27,7 @@
 | Week15 | Final Exam |
 
 ## Homeworks
-| Homeworks | Due | Contents |
+| Homeworks | Due | Description |
 | :------: | ---- | ----------- |
 | HW1 | 4/1 23:59 | BigInteger |
 | HW2 | 4/15 23:59 | MovieDatabase |
